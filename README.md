@@ -1,5 +1,5 @@
-🎬 StarConnect - Bento Grid UI
-Welcome to the BentoStyleImages component for StarConnect, a modern, visually stunning image showcase layout built with React.js and Tailwind CSS. This page acts as a vibrant landing section, designed to captivate users and convey the essence of the entertainment and casting world.
+ Bento Grid UI
+Welcome to the BentoStyleImages component for a modern, visually stunning image showcase layout built with React.js and Tailwind CSS. This page acts as a vibrant landing section, designed to captivate users and convey the essence of the entertainment and casting world.
 
 🚀 Features
 ⚡ Responsive Bento Grid: A beautifully animated, responsive grid layout using CSS Grid and Tailwind utility classes.
