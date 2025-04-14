@@ -33,7 +33,7 @@ const BentoStyleImages = () => {
             </div>
           </div>
           <Button
-            className="bg-pink-500 hover:bg-pink-600 text-white font-bold py-2 px-6 rounded-lg"
+            className="bg-pink-500 hover:bg-pink-600 text-white font-bold py-2 px-6 rounded-lg hover:scale-105 duration-500"
             onClick={() => navigate("/login")} // Navigate to signup page
           >
             Get started now
@@ -44,85 +44,85 @@ const BentoStyleImages = () => {
         <div className="flex justify-center">
           <img
             src="public/Images/theater.jpg" alt="Star Connect showcase"
-            className="rounded-lg shadow-xl w-full max-w-md"
+            className="rounded-lg shadow-xl w-full max-w-md hover:scale-105 duration-300 ease-linear"
           />
         </div>
       </section>
 
       {/* Bento Image Grid Section */}
-      <section className="max-w-6xl mx-auto px-4 pb-20">
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-6 gap-4 auto-rows-[200px]">
-          <div className="col-span-2 md:col-span-3 row-span-2">
+      <section className="max-w-6xl mx-auto px-4 pb-20 ">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-6 gap-4 auto-rows-[200px] ">
+          <div className="col-span-2 md:col-span-3 row-span-2  hover:scale-105 duration-300 ease-linear ">
             <img
               src="public/Images/cinematic.jpg"
               className="h-full w-full object-cover rounded-lg"
               alt="Western set"
             />
           </div>
-          <div className="col-span-1 md:col-span-1 row-span-1">
+          <div className="col-span-1 md:col-span-1 row-span-1 hover:scale-110 duration-300 ease-linear">
             <img
               src="public/Images/img3.jpg"
               className="h-full w-full object-cover rounded-lg"
               alt="Director clapper"
             />
           </div>
-          <div className="col-span-1 md:col-span-2 row-span-1">
+          <div className="col-span-1 md:col-span-2 row-span-1 hover:scale-105 duration-300 ease-linear">
             <img
               src="public/Images/imgg1.jpg"
               className="h-full w-full object-cover rounded-lg"
               alt="Action camera shot"
             />
           </div>
-          <div className="col-span-1 md:col-span-2 row-span-1">
+          <div className="col-span-1 md:col-span-2 row-span-1 hover:scale-105 duration-300 ease-linear">
             <img
               src="public/Images/img5.jpg"
               className="h-full w-full object-cover rounded-lg"
               alt="Red light camera"
             />
           </div>
-          <div className="col-span-1 md:col-span-1 row-span-2">
+          <div className="col-span-1 md:col-span-1 row-span-2 hover:scale-105 duration-300 ease-linear">
             <img
               src="public/Images/imggg.jpg"
               className="h-full w-full object-cover rounded-lg"
               alt="Studio light"
             />
           </div>
-          <div className="col-span-1 md:col-span-1 row-span-2">
+          <div className="col-span-1 md:col-span-1 row-span-2 hover:scale-105 duration-300 ease-linear">
             <img
               src="public/Images/imggg1.jpg"
               className="h-full w-full object-cover rounded-lg"
               alt="Studio light"
             />
           </div>
-          <div className="col-span-1 md:col-span-1 row-span-1">
+          <div className="col-span-1 md:col-span-1 row-span-1 hover:scale-105 duration-300 ease-linear">
             <img
               src="public/Images/imgg4.jpg"
               className="h-full w-full object-cover rounded-lg"
               alt="Indoor shooting"
             />
           </div>
-          <div className="col-span-2 md:col-span-3 row-span-1">
+          <div className="col-span-2 md:col-span-3 row-span-1 hover:scale-105 duration-300 ease-linear">
             <img
               src="public/Images/image6.jpg"
               className="h-full w-full object-cover rounded-lg"
               alt="Behind the scenes"
             />
           </div>
-          <div className="col-span-2 md:col-span-2 row-span-1">
+          <div className="col-span-2 md:col-span-2 row-span-1 hover:scale-105 duration-300 ease-linear">
             <img
               src="public/Images/imgg10.jpg"
               className="h-full w-full object-cover rounded-lg"
               alt="Outdoor shoot"
             />
           </div>
-          <div className="col-span-2 md:col-span-2 row-span-1">
+          <div className="col-span-2 md:col-span-2 row-span-1 hover:scale-105 duration-300 ease-linear">
             <img
               src="/Images/img14.jpg"
               className="h-full w-full object-cover rounded-lg"
               alt="Director in studio"
             />
           </div>
-          <div className="col-span-1 md:col-span-1 row-span-1">
+          <div className="col-span-1 md:col-span-1 row-span-1 hover:scale-105 duration-300 ease-linear">
             <img
               src="public/Images/img8.jpg"
               className="h-full w-full object-cover rounded-lg"
